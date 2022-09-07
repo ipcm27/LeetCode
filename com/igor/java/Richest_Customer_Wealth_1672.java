@@ -1,3 +1,5 @@
+package com.igor.java;
+
 public class Richest_Customer_Wealth_1672 {
 
 
